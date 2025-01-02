@@ -1,2 +1,2 @@
-# Ch-ng-tr-nh-d-ch
+# Chương trình dịch
 Thực hành chương trình dịch
